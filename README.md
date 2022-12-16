@@ -1,6 +1,15 @@
 # nlw-10-copa
 
-credits https://github.com/maykbrito
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- Git e Github
 
 ![green](https://user-images.githubusercontent.com/107319126/208133036-48087367-ecde-47cb-8903-fbdda278d98b.png)
 
