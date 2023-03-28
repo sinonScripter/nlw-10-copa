@@ -11,6 +11,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
+Calendario da copa de 2022. Com a função de trocar de com de acordo com a vontade do usuário
+
 ![green](https://user-images.githubusercontent.com/107319126/208133036-48087367-ecde-47cb-8903-fbdda278d98b.png)
 
 # Blue
